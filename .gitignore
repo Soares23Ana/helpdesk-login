@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.claude/
+
+# Configuração e banco locais da API (contêm senhas de teste)
+helpdesk-jrs/config.yaml
+helpdesk-jrs/database.json
